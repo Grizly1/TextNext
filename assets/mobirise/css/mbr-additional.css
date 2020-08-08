@@ -733,7 +733,7 @@ section.lazy-placeholder:after {
 }
 .cid-s74kxgSTQb {
   padding-top: 45px;
-  padding-bottom: 45px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-s74kxgSTQb h2 {
@@ -798,6 +798,10 @@ section.lazy-placeholder:after {
 }
 .cid-s74kxgSTQb .mbr-text {
   text-align: left;
+  color: #767676;
+}
+.cid-s74kxgSTQb P {
+  color: #232323;
 }
 .cid-s70I9qywMI {
   padding-top: 60px;
